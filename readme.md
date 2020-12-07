@@ -1,5 +1,5 @@
-#Course dashboard ui developemnt
+Course dashboard ui developemnt
 
-##using:SASS,
+Using:SASS
 
-##inspire design:https://dribbble.com/shots/13966399-FIGMA-FREEBIE-ecourse-dashboard
+Inspire design:https://dribbble.com/shots/13966399-FIGMA-FREEBIE-ecourse-dashboard
